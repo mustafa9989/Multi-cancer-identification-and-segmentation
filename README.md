@@ -1,1 +1,2 @@
 # Multi-cancer-identification-and-segmentation
+This project aims to identify and segment different types of cancer diseases using deep learning techniques. The goal is to develop accurate models for determining the type of scan (breast or brain) and detecting the presence of tumors, as well as classifying the type of tumor if it exists. The disease detection is achieved through various deep learning tasks, including image classification and segmentation.
